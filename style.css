@@ -1,0 +1,110 @@
+body {
+    font-family: sans-serif;
+    
+}
+
+h1 {
+    background-color: #C0A36A;
+    font-family: Island Moments;
+    font-size: 50px;
+    text-align: center;
+}
+
+nav {
+    border-top: 3px solid darkkhaki;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid darkkhaki;
+}
+
+nav a {
+    
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(144, 167, 42);
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: black;
+
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.catalog a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px dotted black;
+    font-size: 20px;
+}
+
+.catalog {
+    width: 700px;
+    background-color: lightblue;
+}
+
+.product {
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double orange;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: bisque;
+}
+
+.principles {
+    border-top: 5px solid darkkhaki;
+    border-bottom: 5px solid darkkhaki;
+    width: 700px;
+    padding: 30px;
+    text-align: center;
+}
+
+.principle {
+    width: 120px;
+}
+
+.slogan {
+    padding: 30px;
+    color: mediumblue;
+    margin-left: 150px;
+}
+
+.slogan_img {
+    padding: 10px;
+    border: 5px solid orange;
+    border-radius: 50%;
+}
+
+.slogan_text {
+    float:left;
+    color: mediumblue;
+    margin: 20px;
+}
+
+footer {
+    background-color: darkkhaki;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+img{
+    width:200px ;
+    height: ;
+}
+.icon{
+    width: 50px;
+}
+
+.left{
+    text-align: left;
+}
+
+
+.right{
+text-align: right;
+
+}
